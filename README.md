@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Currently enrolled into LaunchX Full-Stack web developement program 🚀
-- Intersted in Game Developemente, Web Developement and Machine Learning 🧠 
+- Intersted in Game Developement, Web Developement and Machine Learning 🧠 
