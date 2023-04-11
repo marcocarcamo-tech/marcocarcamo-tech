@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👩‍💻 About me 
-- 🚀Firts edition student of LaunchX Full-Stack web developement program by Microsoft
+- 🚀First edition student of LaunchX Full-Stack web developement program by Microsoft
 - 🧠 Intersted in Game Developement, Web Developement and Machine Learning  
 - 🍃 I'm currently learning Java and Spring with OpenBootcamp
 - 🗒️ Currently student of ONE program by Oracle
